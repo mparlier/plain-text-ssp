@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "eb25d5d3b6d5daaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc0c2597b082fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b9622d57928c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-SSP-MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f312e166af5645e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96f540f91617b7c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "48694b11d8652b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e7413e81ec7821b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9853260ba2b893bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "834f179d6b3d2a34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb3988825e2ef75a",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b69c8865cb0820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b818aad4fc044d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a512ada07872676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed439884e5702785",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35436759d72c418c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcf93620b838c610",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f312e166af5645e0",
+  "lastOpenFiles": [
+    "templates/Untitled.md",
+    "000-SSP-MOC.md",
+    "Access Control (AC).md",
+    "000-dataview.md",
+    "000-SSP-NFO.md",
+    "AC.L1-3.1.1.md",
+    "AC-1.md",
+    "AC.L2-3.1.5.md",
+    "AC.L2-3.1.4.md",
+    "AC.L2-3.1.3.md"
+  ]
+}
