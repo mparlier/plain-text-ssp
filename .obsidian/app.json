@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true
 }

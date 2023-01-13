@@ -1,16 +1,16 @@
 ---
-type: ssp
-controls: Access Control
+type: control
+control-family: Access Control
 control: AC.L1-3.1.1
 responsible-entities:
-implementation-status: Not Implemented
+implementation-status:
 ---
 
 # AC.L1-3.1.1
 
 Goal: Identify all users and devices, and limit access to only those users and devices. Show evidence of this.
 
-Tasks:
+Suggested Tasks:
 
 - Create authorized users list. Define authorized users in the Access Control policy.
 - Integrate Atlassian tools with M365 SSO

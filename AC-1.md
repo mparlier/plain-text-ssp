@@ -1,8 +1,9 @@
 ---
-type: ssp
-controls: NFO
+type: control
+control-family: NFO
 control: AC-1
-tags: note
+responsible-entities:
+implementation-status:
 ---
 
 # AC-1

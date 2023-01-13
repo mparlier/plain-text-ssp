@@ -1,8 +1,9 @@
 ---
-type: ssp
-controls: AC
+type: control
+control-family: Access Control
 control: AC.L1-3.1.2
-tags: note
+responsible-entities:
+implementation-status:
 ---
 
 # AC.L1-3.1.2

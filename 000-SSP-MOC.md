@@ -16,21 +16,21 @@ When writing the SSP, address the following items:
 - Who owns each control?
 - Create a Roles and Responsibilities Matrix
 
-## Control Families
+## Dashboards
 
-- [Access Control (AC)](Access%20Control%20(AC).md)
-- [Audit and Accountability (AU)](Audit%20and%20Accountability%20(AU).md)
-- [Awareness and Training (AT)](Awareness%20and%20Training%20(AT).md)
-- [Configuration Management (CM)](Configuration%20Management%20(CM).md)
-- [Identification and Authentication (IA)](Identification%20and%20Authentication%20(IA).md)
-- [Incident Response (IR)](Incident%20Response%20(IR).md)
-- [Maintenance (MA)](Maintenance%20(MA).md)
-- [Media Protection (MP)](Media%20Protection%20(MP).md)
-- [Personnel Security (PS)](Personnel%20Security%20(PS).md)
-- [Physical Protection (PE)](Physical%20Protection%20(PE).md)
-- [Risk Assessment (RA)](Risk%20Assessment%20(RA).md)
-- [Security Assessment (CA)](Security%20Assessment%20(CA).md)
-- [System and Communications Protection (SC)](System%20and%20Communications%20Protection%20(SC).md)
-- [System and Information Integrity (SI)](System%20and%20Information%20Integrity%20(SI).md)
+- [Access Control](Access%20Control.md)
+- [Audit and Accountability](Audit%20and%20Accountability.md)
+- [Awareness and Training](Awareness%20and%20Training.md)
+- [Configuration Management](Configuration%20Management.md)
+- [Identification and Authentication](Identification%20and%20Authentication.md)
+- [Incident Response](Incident%20Response.md)
+- [Maintenance](Maintenance.md)
+- [Media Protection](Media%20Protection.md)
+- [Personnel Security](Personnel%20Security.md)
+- [Physical Protection](Physical%20Protection.md)
+- [Risk Assessment](Risk%20Assessment.md)
+- [Security Assessment](Security%20Assessment.md)
+- [System and Communications Protection](System%20and%20Communications%20Protection.md)
+- [System and Information Integrity](System%20and%20Information%20Integrity.md)
 
 [000-SSP-NFO](000-SSP-NFO.md)
