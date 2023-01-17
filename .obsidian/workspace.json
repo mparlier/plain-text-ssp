@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48cdbdbcec7372ca",
+        "id": "a9dd445f3e8d5f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7b36110c64b5d7",
+            "id": "f07dc6b060de2d6f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e7b36110c64b5d7",
+  "active": "f07dc6b060de2d6f",
   "lastOpenFiles": [
+    "AC.L1-3.1.1.md",
     "System and Information Integrity.md",
     "System and Communications Protection.md",
     "Security Assessment.md",
@@ -157,7 +158,6 @@
     "Risk Assessment.md",
     "Physical Protection.md",
     "Personnel Security.md",
-    "Media Protection.md",
-    "Maintenance.md"
+    "Media Protection.md"
   ]
 }
